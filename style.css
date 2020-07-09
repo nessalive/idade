@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.fundo {
+    background:rgb(211, 170, 245);
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.125rem;
+}
+
+.titulo {
+    padding: 1.25rem;
+    color: black;
+    text-align: center;
+}
+
+.fundo2 {
+    background: white;
+    border-radius: 0.625rem;
+    padding: 0.938rem;
+    width: 22.5rem;
+    text-align: center;
+    margin: auto;
+    box-shadow: 0.313rem 0.313rem 0.313rem rgba(0, 0, 0, 0.363);
+   
+}
+
+
+.feito {
+    padding: 0.313rem;
+    text-align: center;
+    font-style: italic;
+}
